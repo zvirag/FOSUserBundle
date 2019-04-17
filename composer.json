@@ -1,5 +1,5 @@
 {
-    "name": "zvirag/FOSUserBundle",
+    "name": "zvirag/fosuserbundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": [
