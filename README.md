@@ -1,7 +1,8 @@
 FOSUserBundle
 =============
 
-#!!! **IMPORTANT:** The mongo mapping has changed in this version (mongo 4 support) !!!
+!!! **IMPORTANT:** The mongo mapping has changed in this version (mongo 4 support) !!!
+--------------------------------------------------------------------------------------
 
 The FOSUserBundle adds support for a database-backed user system in Symfony2+.
 It provides a flexible framework for user management that aims to handle
